@@ -1,9 +1,11 @@
 # Rare Desease Detection in Federated Learning
-## Introduction
+## Abstract and Introduction
+The detection of rare diseases utilizing advanced artificial intelligence (AI) techniques has garnered considerable attention in recent years. Numerous approaches have been proposed to detect diverse rare diseases by leveraging a range of medical data, including medical images, electronic health records, and sensory data. In order to safeguard the privacy of health data, considerable investigation has been undertaken on a novel learning paradigm known as federated learning, which has been applied to the domain of rare disease detection. Nonetheless, this nascent research direction remains in its infancy, necessitating greater scrutiny and attention. Within this survey, our primary focus lies in providing fresh perspectives, deliberating the challenges, and enumerating potential research directions concerning the application of federated learning techniques in rare disease detection. Furthermore, we provide a succinct summary of existing advancements using AI techniques for rare disease detection, as well as the utilization of federated learning within healthcare informatics. Moreover, we furnish a compilation of publicly available datasets that can be employed to validate novel federated learning algorithms for the purpose of detecting rare diseases.
+
 ## Summarization
-| Item              | In Stock | Price |
+| Research Work              | Time | Task |
 | :---------------- | :------: | ----: |
-| Python Hat        |   True   | 23.99 |
+| Federated Learning with Imbalanced and Agglomerated Data Distribution for Medical Image Classification         |   True   | 23.99 |
 | SQL Hat           |   True   | 23.99 |
 | Codecademy Tee    |  False   | 19.99 |
 | Codecademy Hoodie |  False   | 42.99 |
