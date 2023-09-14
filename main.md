@@ -5,7 +5,9 @@ The detection of rare diseases utilizing advanced artificial intelligence (AI) t
 ## Summarization
 | Research Work              | Time | Task |
 | :---------------- | :------: | ----: |
-| Federated Learning with Imbalanced and Agglomerated Data Distribution for Medical Image Classification         |   True   | 23.99 |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 |
+| Federated Learning with Imbalanced and Agglomerated Data Distribution for Medical Image Classification         |   2022   | Classification |
+| Federated learning enables big data for rare cancer boundary detection           |   2022   | Boundary Detection |
+| DFML: Dynamic federated meta-learning for rare disease prediction    |  2023   | Prediction |
+| Multinational federated learning approach to train ECG and echocardiogram models for hypertrophic cardiomyopathy detection |  2022   | Detection |
+| Federated learning for computational pathology on gigapixel whole slide images |  2022   | Prediction |
+
